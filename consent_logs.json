@@ -1,0 +1,1 @@
+[{"patient_id": "123", "recipient": "emergency_team", "purpose": "ER_admission", "granted_at": "2025-06-20T16:54:38.561945", "expires_at": "2025-06-21T16:54:38.561953", "fields": ["blood_type", "allergies"], "signature": "c9b33059d7a2e290b218afdb94386364feeaaadd9751f7be898fac695b0d7555"}]
